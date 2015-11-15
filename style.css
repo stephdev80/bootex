@@ -1,0 +1,26 @@
+ body {
+        background: url('assets/img/fond.jpg') no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
+      }
+
+      /* Images */
+      img {
+        width: 100%;
+      }
+
+      .jumbotron {
+       /* margin-top: 40px;*/
+        background: rgba(255, 255, 255, 0.5);
+      }
+
+      h1 {
+        margin-bottom: 40px;
+      }
+
+      footer.row{
+        margin-bottom: 25px;
+        margin-top: 25px;
+      }
